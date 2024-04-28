@@ -17,3 +17,9 @@
   <a href="mailto:pedro.antonieti@gmail.com"><img align="center" alt="Meu e-mail" src="https://raw.githubusercontent.com/anaselgarhy/cool-badges/master/svg/social/email_me.svg"/></a>
   <img align="center" alt="Discord: iam_peter" src="https://raw.githubusercontent.com/anaselgarhy/cool-badges/master/svg/social/discord.svg"/>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/p3terhenry/p3terhenry/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/p3terhenry/p3terhenry/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/p3terhenry/p3terhenry/output/github-contribution-grid-snake.svg">
+</picture>
