@@ -1,9 +1,9 @@
 <h1>Olá, meu nome é Pedro! 😁</h1>
 <div>
   <a href="https://github.com/P3terHenry" target="_blank">
-  <img align="center" height="260px" src="https://github-readme-stats.vercel.app/api?username=p3terhenry&show_icons=true&theme=dark&custom_title=Status%20do%20Github%20do%20Pedro&text_bold=true&locale=pt-br&include_all_commits=true"/>
-  <img align="center" height="260px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3terhenry&theme=dark&locale=pt-br&border_color=ffffff&text_bold=true"/>
-  <img align="center" height="245px" src="https://github-readme-streak-stats.herokuapp.com/?user=p3terhenry&theme=dark&locale=pt-br&include_all_commits=true"/>
+  <img align="center" height="216rm" src="https://github-readme-stats.vercel.app/api?username=p3terhenry&show_icons=true&theme=dark&custom_title=Status%20do%20Github%20do%20Pedro&text_bold=true&locale=pt-br&include_all_commits=true"/>
+  <img align="center" height="216rm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3terhenry&theme=dark&locale=pt-br&border_color=ffffff&text_bold=true"/>
+  <img align="center" height="330rm" src="https://github-readme-streak-stats.herokuapp.com/?user=p3terhenry&theme=dark&locale=pt-br&include_all_commits=true"/>
 </div>
 <h1>🛠️ Linguagens</h1>
 <div style="display: inline_block">
