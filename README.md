@@ -14,7 +14,7 @@
 </div>
 <h1>🏠 Onde me encontrar</h1>
 <div style="display: inline_block">
-  <a href="mailto:pedro.antonieti@gmail.com"><img align="center" alt="Meu e-mail" src="https://raw.githubusercontent.com/anaselgarhy/cool-badges/master/svg/social/email_me.svg"/></a>
+  <a href="mailto:contact@pedroantonieti.dev"><img align="center" alt="Meu e-mail" src="https://raw.githubusercontent.com/anaselgarhy/cool-badges/master/svg/social/email_me.svg"/></a>
   <img align="center" alt="Discord: iam_peter" src="https://raw.githubusercontent.com/anaselgarhy/cool-badges/master/svg/social/discord.svg"/>
 </div>
 
