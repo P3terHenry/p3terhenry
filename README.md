@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Pedro Henrique Vasco Antonieti</h1>
 
 <p align="center">
-  <strong>Developer Backend Java | Spring Boot | Spring Security | Spring Web | CI/CD & Cloud | APIs REST</strong>
+  <strong>Software Engineer | Backend Java Developer | Spring | Spring Boot | Docker | Azure | AWS | CI/CD & Cloud | APIs REST</strong>
 </p>
 
 ## 🧑‍💻 Sobre mim
